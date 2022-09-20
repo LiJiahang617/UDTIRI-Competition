@@ -27,6 +27,9 @@ VI. Instructions
 2.	Download the dataset from (https://drive.google.com/file/d/1mKgJ4K1ojXzRwLV6AuJtO1AO_AU_8HFx/view?usp=sharing)
 3.	Submit the pre-trained model, source code, and a docker image to the UDTIRI submission system (by simply adding an attachment to the registration) for evaluation.
 4.	If UDTIRI submission system is not available, please send the share link of your result to 2230745@tongji.edu.cn
+5.  Registration deadline：2022.10.25
+6.  Model submission deadline：2022.11.28
+7.  Result announcement：2022.11.30
 
 VII. Contact
 
