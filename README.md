@@ -65,3 +65,33 @@ The registration for today's competition is up. Now you must have known the cont
 
 Note: At present, students who have sent registration information to the mailbox will be deemed as successful, and no registration ID is required. Thank you for your understanding.                                                                                                             
                                                                                  Tongji RAIL
+
+11.15日更新：
+今天已经是11月15日了，按照之前通知上规定的进度，现在大家应该已经在搭建自己的模型了。我们计划于本月月底进行最终得评审，预估在11月25日左右。现在对比赛后续规则进行详细说明。
+1.经过统计，本次比赛共计10余支队伍进行参赛，因此比赛最终得奖励1，2，3等奖各一名，以及特等奖1名，共计四支队伍会赢得奖金。
+2.大家搭建好自己的模型之后，应保证项目的完整性，简便性，并且有相关评测以及可视化脚本（详细说明见后续），项目应使用pytorch框架进行编写。要求能给定图片集直接进行输入网络得出性能指标，在11月23日之前提交结果。我们将使用数据集未公开的部分作为测试集进行评测，并在月底进行统一公开大家的模型成绩，取前四名。
+3.为保证公平，本次评测脚本应统一使用cocotools进行编写，得出对应的性能指标，不得私自修改cocotools相关参数，成绩都将以cocoAPI所得成绩为准。为了提升效率，请大家自己将验证集的性能指标使用pycocotools进行评测并发送给我们。我们会再使用测试集对权重进行评估。
+
+所需文件：
+1.为了提升效率，请所有的参赛队提供完整的docker镜像，将自己的项目（包括评价脚本以及可视化脚本）以及训练好的最佳权重一并打包放入镜像中供我们下载。我们在测试过程中如遇到无法使用镜像或是项目无法运行，视为放弃资格。
+2.请提交时附自己项目的相关描述，包括所使用的环境包（pytorch等packages的版本等）以及自己模型的名称,模型原型的来源和详细的网络说明，如是原创，需标明；最后还需要提供测试以及可视化脚本的使用说明，方便我们进行评测。
+
+预计在11月22日左右会有后续的docker提交说明，大家目前准备好相关材料等待提交即可。
+
+祝大家取得好成绩！！
+                                                                                 Tongji RAIL
+                                                                                 
+Update on 11.15:
+Today is November 15th. According to the progress stipulated in the previous notice, everyone should be building their own models now. We plan to conduct the final review at the end of this month, estimated around November 25th. Now let's explain the follow-up rules of the game in detail.
+1. According to the statistics, there are more than 10 teams participating in this competition. Therefore, the competition will finally reward one 1st, 2nd, and 3rd prize, and 1 special prize. A total of four teams will win the bonus.
+2. After you build your own model, you should ensure the integrity and simplicity of the project, and have relevant evaluation and visualization scripts (see the follow-up for details). The project should be written using the pytorch framework. It is required that a given image set can be directly input into the network to obtain performance indicators, and the results should be submitted before November 23. We will use the undisclosed part of the data set as the test set for evaluation, and at the end of the month, we will release everyone's model results and take the top four.
+3. In order to ensure fairness, the evaluation script should be uniformly written using cocotools to obtain the corresponding performance indicators, and the relevant parameters of cocotools are not allowed to be modified without authorization, and the results will be based on the results obtained by cocoAPI. In order to improve efficiency, please use pycocotools to evaluate the performance indicators of the verification set and send them to us. We then use the test set to evaluate the weights.
+
+needed file:
+1. In order to improve efficiency, all participating teams are requested to provide a complete docker image, and package their own projects (including evaluation scripts and visualization scripts) and the best trained weights into the image for us to download. During the testing process, if we encounter that the image cannot be used or the project cannot run, it will be deemed as a disqualification.
+2. Please attach a relevant description of your project when submitting, including the environment package used (version of packages such as pytorch, etc.) and the name of your model, the source of the model prototype and detailed network instructions. Instructions for testing and visual scripts need to be provided to facilitate our evaluation.
+
+It is expected that there will be follow-up docker submission instructions around November 22, and everyone can prepare relevant materials and wait for submission.
+
+Good luck to everyone! !
+                                                                                 Tongji RAIL                                                           
