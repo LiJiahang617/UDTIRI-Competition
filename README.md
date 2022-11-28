@@ -6,6 +6,8 @@
 # 11月28日更新：
 # 我们的Workshop因为未收到足够的投稿，已经被IEEE BigData官方取消，对于各位参与者，我们感到万分抱歉！
 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
 I．General Information
 
   Using the popular deep learning methods can achieve more efficient identification and segmentation of defects on urban roads. Because the general road defects are mainly potholes, the main goal of this competition is to separate the potholes from lanes. The participating teams will use the unified road pothole dataset for their instance segmentation algorithm and finally obtain an instance segmentation model with excellent performance indicators. Participants need to submit their pre-trained model and the corresponding Docker image file for the sponsor to evaluate the algorithm (based on speed and accuracy).
