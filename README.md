@@ -2,7 +2,7 @@
 1st UDTIRI Competition instruction 
 
 # Update on 11.28:
-# Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
+# <font color=#FF000 >红色</font>Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
 
 I．General Information
 
