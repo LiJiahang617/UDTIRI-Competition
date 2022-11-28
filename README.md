@@ -4,7 +4,7 @@
 # Update on 11.28:
 # Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
 # 11月28日更新：
-# 我们的Workshop因为未收到足够的投稿，已经被IEEE BigData官方取消，非常抱歉！
+# 我们的Workshop因为未收到足够的投稿，已经被IEEE BigData官方取消，对于各位参与者，我们感到万分抱歉！
 
 I．General Information
 
