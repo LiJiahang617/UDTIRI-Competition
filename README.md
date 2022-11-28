@@ -1,6 +1,6 @@
 # UDTIRI-Competition
 1st UDTIRI Competition instruction 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
+- ![#f03c15](1122)
 # Update on 11.28: 
 # Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
 # 11月28日更新：
