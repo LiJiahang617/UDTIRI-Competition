@@ -104,3 +104,7 @@ Good luck to everyone! !
 
 Updated November 21, 2022:
 See the model_submission.md file for the latest instructions! Be sure to submit according to the regulations. If you have any questions, please contact 2230745@tongji.edu.cn in time
+
+
+Update on 11.28:
+Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
