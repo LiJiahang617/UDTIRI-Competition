@@ -1,6 +1,12 @@
 # UDTIRI-Competition
 1st UDTIRI Competition instruction 
-- ![#f03c15](1122)
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 # Update on 11.28: 
 # Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
 # 11月28日更新：
