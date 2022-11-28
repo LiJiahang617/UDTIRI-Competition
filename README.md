@@ -1,6 +1,9 @@
 # UDTIRI-Competition
 1st UDTIRI Competition instruction 
 
+# Update on 11.28:
+# Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
+
 I．General Information
 
   Using the popular deep learning methods can achieve more efficient identification and segmentation of defects on urban roads. Because the general road defects are mainly potholes, the main goal of this competition is to separate the potholes from lanes. The participating teams will use the unified road pothole dataset for their instance segmentation algorithm and finally obtain an instance segmentation model with excellent performance indicators. Participants need to submit their pre-trained model and the corresponding Docker image file for the sponsor to evaluate the algorithm (based on speed and accuracy).
@@ -106,5 +109,4 @@ Updated November 21, 2022:
 See the model_submission.md file for the latest instructions! Be sure to submit according to the regulations. If you have any questions, please contact 2230745@tongji.edu.cn in time
 
 
-# Update on 11.28:
-# Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
+
