@@ -1,12 +1,10 @@
 # UDTIRI-Competition
 1st UDTIRI Competition instruction 
 
-# Update on 11.28:
+# - ![#f03c15]# Update on 11.28:
 # Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
 # 11月28日更新：
-# 我们的Workshop因为未收到足够的投稿，已经被IEEE BigData官方取消，对于各位参与者，我们感到万分抱歉！
-
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+# 我们的Workshop因为未收到足够的投稿，已经被IEEE BigData官方取消，对于各位参与者，我们感到万分抱歉！ `#f03c15`
 
 I．General Information
 
