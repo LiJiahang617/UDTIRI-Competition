@@ -1,12 +1,28 @@
 # UDTIRI-Competition
 1st UDTIRI Competition instruction 
-```diff
--  Update on 11.28: 
--  Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
--  11月28日更新：
--  我们的Workshop因为未收到足够的投稿，已经被IEEE BigData官方取消，对于各位参与者，我们感到万分抱歉！
 
-```
+
+
+
+尊敬的各支参赛队伍：
+大家好！
+首先带给大家一个好消息，经过工作组老师的不懈努力，在与赞助商反复协商之后，我们已经成功为大家争取到了原定奖金。组委会决定继续举办UDTIRI Workshop！
+
+关于本次竞赛的后续说明：
+1.	由于我们已被IEEE BigData官方取消了研讨会举办资格，后续Workshop我们会以研讨会（UDTIRI）的名义举办，不再是IEEE旗下的Workshop。
+2.	我们会按照原来的计划，为提交了模型的所有队伍进行排名，并在12月18日公布具体成绩。
+3.	我们会如约发放原定的比赛奖金（赞助方以私人名义资助本次比赛）。
+4.	我们会为大家提供证书，但上面无法附IEEE BigData的LOGO，仅有UDTIRI与赞助方ClearMotion的LOGO。
+5.	鉴于最近一系列突发情况，我们还需要为后续workshop的举办补办很多手续，因此将推迟举行。
+
+以下注意事项非常重要：
+1.	经过考虑，我们决定将在12月11日公示比赛获奖的前4支队伍，并在12月18日以视频会议的形式举办我们的研讨会，并邀请业内专家进行主题报告。
+2.	比赛获奖的前四支队伍需要进行presentation，每组需要准备12分钟，分享自己算法模型的设计以及对应的实验结果。会议结束后，我们会公布排名，为大家颁发奖状、发放奖金。
+3.	因本次活动不再归属于IEEE BigData，后续活动全部免费参与，不再需要注册费用！
+
+                                                     UDTIRI 工作组全体成员 
+
+
 
 
 I．General Information
@@ -113,5 +129,11 @@ Good luck to everyone! !
 Updated November 21, 2022:
 See the model_submission.md file for the latest instructions! Be sure to submit according to the regulations. If you have any questions, please contact 2230745@tongji.edu.cn in time
 
+```diff
+-  Update on 11.28: 
+-  Our workshop has been canceled due to the insufficient number of registrations. We sincerely apologize for this!
+-  11月28日更新：
+-  我们的Workshop因为未收到足够的投稿，已经被IEEE BigData官方取消，对于各位参与者，我们感到万分抱歉！
 
+```
 
